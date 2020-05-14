@@ -10092,7 +10092,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/gallery/3photo.jpg");
+  background-image: url("../assets/img/gallery/bg1.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -10458,4 +10458,8 @@ section#contact form#contactForm :-ms-input-placeholder {
 
 .bg-grey {
   background-color: rgba(129, 129, 129, 0.267);
+}
+
+.navlogo {
+  width: 15rem;
 }
